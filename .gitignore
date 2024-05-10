@@ -1,0 +1,19 @@
+__Previews
+History
+Project logs for*
+Project outputs for*
+.ipynb_checkpoints
+*.html
+*.htm
+*.STEP
+*.log
+*.AD_PRT
+*.stp
+*.pdf
+*.AD_ASM
+*.LOG
+<<<<<<< HEAD
+*.zip
+=======
+*.zip
+>>>>>>> a874ac18bd1b8908c4f9f533be3bf3f05f177b2c
